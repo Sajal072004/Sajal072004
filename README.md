@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajal072004" alt="sajal072004" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sajalnamdeo.vercel.app](sajalnamdeo.vercel.app)
+- 👨‍💻 All of my projects are available at [sajalnamdeo.vercel.app](https://sajalnamdeo.vercel.app)
 
 - 📫 How to reach me **sajalnamdeo627@gmail.com**
 
