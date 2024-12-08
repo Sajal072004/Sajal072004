@@ -1,4 +1,5 @@
-# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
+# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Consistency+is+what+turns+dreams+into+reality.)
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="flex: 1 1 100%; margin-bottom: 10px;">
@@ -63,7 +64,7 @@
 ### GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=sajal072004&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <br>
-![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farneet24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farneet24&layout=compact&theme=radical&hide=jupyter%20notebook)
+![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajal072004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal072004&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
