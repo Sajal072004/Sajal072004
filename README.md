@@ -61,10 +61,3 @@
 
 ---
 
-### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=sajal072004&label=Profile%20views&color=0e75b6&style=for-the-badge)
-<br>
-![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajal072004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal072004&layout=compact&theme=radical&hide=jupyter%20notebook)
-
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
