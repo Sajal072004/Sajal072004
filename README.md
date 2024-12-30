@@ -15,7 +15,7 @@
 
 <br>
 
-[![Sajal Namdeo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sajal Namdeo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=dracula)](https://github.com/Sajal072004)
 ## 🚀 My Work
 
 ### 🌐 Profiles
