@@ -17,6 +17,8 @@
 
 [![Sajal Namdeo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=dracula)](https://github.com/Sajal072004)
 
+![](https://github-profile-trophy.vercel.app/?username=Sajal072004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&" alt="Sajal072004" /></p>
 ## 🚀 My Work
 
