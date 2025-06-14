@@ -75,12 +75,12 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/LeetCode-1938%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><strong>Problems Solved</strong>
+<br><strong>Rating Achieved</strong>
 <br><sub>Top 3.6% Globally</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<br><strong>Rating Achieved</strong>
+<br><strong>Rank Achieved</strong>
 <br><sub>Consistent Performer</sub>
 </td>
 <td align="center" width="25%">
