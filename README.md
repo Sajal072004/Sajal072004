@@ -16,52 +16,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-```javascript
-const sajal = {
-    name: "Sajal Namdeo",
-    education: {
-        college: "IIIT Ranchi",
-        degree: "B.Tech Computer Science Engineering",
-        year: "Pre-Final Year (2022-2026)",
-        cgpa: "9.33/10.0"
-    },
-    
-    currentRole: {
-        company: "CreditSea",
-        position: "Software Engineer Intern",
-        type: "Fintech Startup",
-        location: "Remote"
-    },
-    
-    location: "Raipur, Chhattisgarh, India 🇮🇳",
-    
-    techStack: {
-        languages: ["JavaScript", "TypeScript", "C++", "Python", "Java"],
-        frontend: ["React.js", "Next.js", "React Native", "Redux", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "RESTful APIs"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Prisma ORM"],
-        cloud: ["Google Cloud Platform", "AWS", "Docker", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    
-    codingAchievements: {
-        leetCode: "2000+ problems solved | Top 3.6% globally",
-        codeforces: "Specialist Rating",
-        codechef: "4 Star Rating",
-        geeksforgeeks: "Problem Solving Expert"
-    },
-    
-    currentFocus: [
-        "Contributing to fintech solutions at CreditSea",
-        "Mastering full-stack development",
-        "Competitive programming excellence",
-        "Building impactful projects"
-    ],
-    
-    interests: ["Problem Solving", "Web Development", "Mobile Apps", "Tech Innovation"],
-    funFact: "I debug code better than I debug my life! 😄"
-};
-```
 
 <br clear="right"/>
 
