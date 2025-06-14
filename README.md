@@ -70,7 +70,7 @@ const sajal = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/IIIT_Ranchi-9.33_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pre_Final_Year-2024-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pre_Final_Year-2022-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
 </div>
