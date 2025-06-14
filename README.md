@@ -230,6 +230,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,react,nextjs,nodejs,express,mongodb,postgresql,mysql,gcp,aws,docker,git,vscode,postman,figma,tailwind,redux&theme=dark" />
 
 </div>
+<div height="10%"></div>
 
 <table>
 <tr>
