@@ -281,7 +281,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajal072004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajal072004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="20%"/>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sajal072004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
