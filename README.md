@@ -74,7 +74,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LeetCode-2000%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-1938%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <br><strong>Problems Solved</strong>
 <br><sub>Top 3.6% Globally</sub>
 </td>
@@ -89,7 +89,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <br><sub>Active Competitor</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Expert-success?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-3Star-success?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 <br><strong>Problem Solver</strong>
 <br><sub>Regular Contributor</sub>
 </td>
