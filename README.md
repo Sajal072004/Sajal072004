@@ -116,12 +116,12 @@ const sajal = {
 <br><sub>Top 3.6% Globally</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <br><strong>Rating Achieved</strong>
 <br><sub>Consistent Performer</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/CodeChef-4_Star-yellow?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-_3Star-yellow?style=for-the-badge&logo=codechef&logoColor=white"/>
 <br><strong>Rating Level</strong>
 <br><sub>Active Competitor</sub>
 </td>
