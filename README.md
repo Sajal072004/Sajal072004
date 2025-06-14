@@ -3,11 +3,63 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="flex: 1 1 100%; margin-bottom: 10px;">
-  <div style="flex: 1 1 300px; padding-right: 20px;">
-      <h4>Hi, I'm Sajal Namdeo, a Full Stack Web Developer 👋.</h4>
-      <p>I'm a curious person interested in software development. I’ve worked on various projects.</p>
-      <p>Feel free to reach out if you want to collaborate on a project or research. And if you're into astronomy, we can have fun chats about the mysteries of the universe!</p>
-  </div>
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Hey+there!+I'm+Sajal+Namdeo+%F0%9F%91%8B;Full-Stack+Web+%26+App+Developer+%F0%9F%9A%80;Problem+Solver+|+Tech+Explorer+|+Astronomy+Lover+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
+
+<hr/>
+
+<h2>🚀 About Me</h2>
+
+<pre>
+const sajal = {
+  name: "Sajal Namdeo",
+  role: "Full Stack Developer",
+  languages: ["JavaScript", "TypeScript", "C++"],
+  frameworks: ["React", "Next.js", "Node.js", "Express", "React Native"],
+  tools: ["MongoDB", "PostgreSQL", "Prisma", "Docker", "GCP", "Git"],
+  hobbies: ["Building side-projects", "Solving DSA problems", "Stargazing 🌌"],
+};
+</pre>
+
+<h3>💻 I'm currently:</h3>
+<ul>
+  <li>🏦 Interning at <strong>CreditSea</strong>, building scalable fintech systems</li>
+  <li>📱 Exploring <strong>React Native</strong> to craft cross-platform mobile apps</li>
+  <li>🌟 Solved 2000+ DSA problems across platforms — <strong>Top 3.6%</strong> on LeetCode</li>
+</ul>
+
+<h3>🧠 Things I'm good at:</h3>
+<ul>
+  <li>Designing full-stack architectures with <strong>MERN</strong> / <strong>Next.js + PostgreSQL</strong></li>
+  <li>Writing clean, optimized backend logic</li>
+  <li>Building RESTful APIs that <em>just work™</em></li>
+  <li>Debugging like a detective 🕵️‍♂️</li>
+</ul>
+
+<hr/>
+
+<h3>🎯 Goals</h3>
+<ul>
+  <li>Land a role where I can <strong>ship impactful products</strong> with a fast-paced team</li>
+  <li>Build apps that <strong>solve real-world problems</strong></li>
+  <li>Contribute to exciting <strong>open-source</strong> or research projects</li>
+</ul>
+
+<hr/>
+
+<h3>📫 Let's connect!</h3>
+<ul>
+  <li>🌐 Portfolio: <a href="https://codolio.io/SajalNamdeo" target="_blank">codolio.io/SajalNamdeo</a></li>
+  <li>💼 LinkedIn: <a href="https://linkedin.com/in/sajalnamdeo" target="_blank">linkedin.com/in/sajalnamdeo</a></li>
+  <li>🧠 LeetCode: <a href="https://leetcode.com/SajalNamdeo" target="_blank">leetcode.com/SajalNamdeo</a></li>
+</ul>
+
+<hr/>
+
+<p><em>✨ "I don't just write code, I build things that matter."</em><br/>
+<em>🌌 And if you're into black holes or time dilation, we might just be best friends.</em></p>
+
 </div>
 
 
