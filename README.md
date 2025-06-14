@@ -14,8 +14,18 @@
 
 ## 🌟 About Me
 
-👋 Who Am I?
+## 👋 Who Am I?
 I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.33 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
+
+## 🚀 My Journey
+As a dedicated full-stack developer and competitive programmer, I've solved 2000+ problems across various coding platforms, achieving a top 3.6% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
+
+## 💻 What I Do
+
+🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
+🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
+🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
+📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
 
 
 ## 🎓 Academic Excellence
