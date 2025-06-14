@@ -12,8 +12,6 @@
 
 </div>
 
-## 🌟 About Me
-
 ## 👋 Who Am I?
 I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.33 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
 
@@ -33,7 +31,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <div align="center">
 
 <img src="https://img.shields.io/badge/IIIT_Ranchi-9.33_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pre_Final_Year-2022-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pre_Final_Year-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
 </div>
