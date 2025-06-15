@@ -136,7 +136,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 <div align="center">
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60%">
+
 
 ### 🌟 My Digital Creations
 
