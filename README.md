@@ -7,26 +7,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://cdn.publicsectornetwork.com/insight/feature_images/Untitled_design_5_0757f4.png.896x504_q85_autocrop_crop-smart.png" width="50%" />
+  <img src="https://cdn.publicsectornetwork.com/insight/feature_images/Untitled_design_5_0757f4.png.896x504_q85_autocrop_crop-smart.png" width="80%" />
 </p>
 
 </div>
-
-## 👋 Who Am I?
-I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.33 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
-
-## 🚀 My Journey
-As a dedicated full-stack developer and competitive programmer, I've solved 2000+ problems across various coding platforms, achieving a top 3.6% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
-
-## 💻 What I Do
-- 🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
-
-- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
-
-- 🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
-
-- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
-
 
 ## 📊 GitHub Analytics
 
@@ -49,6 +33,24 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sajal072004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
+
+## 👋 Who Am I?
+I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.33 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
+
+## 🚀 My Journey
+As a dedicated full-stack developer and competitive programmer, I've solved 2000+ problems across various coding platforms, achieving a top 3.6% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
+
+## 💻 What I Do
+- 🏦 Professional Work: Contributing to fintech solutions at CreditSea, working with modern web technologies
+
+- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
+
+- 🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
+
+- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
+
+
+
 
 
 
