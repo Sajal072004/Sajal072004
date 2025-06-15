@@ -142,7 +142,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
