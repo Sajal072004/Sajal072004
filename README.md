@@ -144,7 +144,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 
 <h3 align="center">🎯 TaskBridge</h3>
 <div align="center">
@@ -170,7 +170,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 </div>
 
 </td>
-<td width="70%">
+<td width="50%">
 
 <h3 align="center">🌾 KrishiSeva</h3>
 <div align="center">
@@ -198,7 +198,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 </td>
 </tr>
 <tr>
-<td width="70%">
+<td width="50%">
 
 <h3 align="center">🔗 LinkUp</h3>
 <div align="center">
@@ -224,7 +224,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 </div>
 
 </td>
-<td width="70%">
+<td width="50%">
 
 <h3 align="center">💻 More Projects</h3>
 <div align="center">
