@@ -35,7 +35,7 @@
 </div>
 
 ## 👋 Who Am I?
-I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.33 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
+I'm Sajal Namdeo, a passionate Computer Science Engineering student in my pre-final year at IIIT Ranchi with a stellar 9.35 CGPA. Currently working as a Software Engineer Intern at CreditSea, a fintech startup where I contribute to building innovative financial solutions.
 
 ## 🚀 My Journey
 As a dedicated full-stack developer and competitive programmer, I've solved 2000+ problems across various coding platforms, achieving a top 3.6% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
@@ -58,7 +58,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIIT_Ranchi-9.33_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIIT_Ranchi-9.35_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pre_Final_Year-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
@@ -71,7 +71,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 ### 🏛️ Educational Background
 - 🎓 **Indian Institute of Information Technology, Ranchi**
 - 💻 **Computer Science & Engineering**
-- 📊 **CGPA: 9.33/10.0**
+- 📊 **CGPA: 9.35/10.0**
 - 📅 **Expected Graduation: 2026**
 
 </td>
@@ -298,7 +298,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 <td width="50%">
 
 ### 📚 Academic Focus
-- 🎓 Maintaining excellent CGPA (9.33+)
+- 🎓 Maintaining excellent CGPA (9.35+)
 - 📖 Advanced algorithms and data structures
 - 🧮 Machine learning and AI concepts
 - 💼 Preparing for tech interviews
