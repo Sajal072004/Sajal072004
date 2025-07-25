@@ -175,45 +175,6 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 </table>
 
 
-
-## 🎯 Current Goals & Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Academic Focus
-- 🎓 Maintaining excellent CGPA (9.35+)
-- 📖 Advanced algorithms and data structures
-- 🧮 Machine learning and AI concepts
-- 💼 Preparing for tech interviews
-- 🔬 Research in computer science
-
-</td>
-<td width="50%">
-
-### 💻 Professional Growth
-- 🏦 Contributing to CreditSea's fintech solutions
-- 🚀 Learning industry best practices
-- 🔧 Improving code quality and architecture
-- 👥 Enhancing collaboration skills
-- 📈 Understanding business requirements
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🌱 Currently Learning
-
-![React Native](https://img.shields.io/badge/React%20Native-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![System Design](https://img.shields.io/badge/System%20Design-Learning-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Services-Exploring-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps%20Practices-Improving-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -229,50 +190,3 @@ As a dedicated full-stack developer and competitive programmer, I've solved 2000
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Open For
-- 💼 **Internship opportunities** (Summer 2025)
-- 🤝 **Collaboration on interesting projects**
-- 🧠 **Competitive programming discussions**
-- 📚 **Knowledge sharing sessions**
-- ☕ **Tech talks and coffee chats**
-
-</td>
-<td width="50%">
-
-### 💡 Let's Discuss
-- 🌐 **Full-stack development trends**
-- 🔥 **Problem-solving techniques**
-- 🚀 **Startup and fintech innovations**
-- 🎓 **Academic projects and research**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 💭 My Philosophy
-
-*"Learning never stops, and every challenge is an opportunity to grow."*
-
-*"Code with purpose, debug with patience, and always strive for excellence."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sajal072004&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/sajal072004?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/sajal072004?label=Total%20Stars&style=for-the-badge&color=yellow)
-
-**⭐ Found my profile interesting? Give my repositories a star!**
-
-*Thanks for visiting! Let's connect and build the future together* 🚀
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
