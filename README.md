@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&theme=tokyonight&hide_border=true"  width="60%"/>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=tokyo-night&hide_border=true" width="100%"/>
