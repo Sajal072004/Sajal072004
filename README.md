@@ -6,26 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://cdn.publicsectornetwork.com/insight/feature_images/Untitled_design_5_0757f4.png.896x504_q85_autocrop_crop-smart.png" width="80%" />
-</p>
-
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sajal072004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal072004&theme=tokyonight&hide_border=true" width="100%" />
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajal072004&theme=tokyo-night&hide_border=true" width="100%"/>
 
